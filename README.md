@@ -1,6 +1,6 @@
 # Matej Grobelnik
 
-Senior software engineer focused on building robust and scalable software.
+Freelance software engineer focused on building robust and scalable software.
 
 Based between Rotterdam, The Netherlands and Ljubljana, Slovenia.
 
